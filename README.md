@@ -10,9 +10,9 @@ Here's a basic outline of how DCF works:
 
 3. **Discount the Cash Flows**: Convert the future cash flows into present value terms using the discount rate. The formula for discounting a single cash flow is:
 
-   \[
+   $$\[
    PV = \frac{CF}{(1 + r)^n}
-   \]
+   \]$$
 
    where \( PV \) is the present value, \( CF \) is the cash flow in the future period, \( r \) is the discount rate, and \( n \) is the number of periods in the future the cash flow will be received.
 
